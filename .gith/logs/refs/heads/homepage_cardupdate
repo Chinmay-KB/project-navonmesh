@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 ca4569502492db514153d0d0d87d7205047e0119 Chinmay Kabi <chinmay.kabi@live.com> 1570247600 +0530	branch: Created from HEAD
-ca4569502492db514153d0d0d87d7205047e0119 fdff33dae10e05dd603c4bb6893bc93ff864bb9a Chinmay Kabi <chinmay.kabi@live.com> 1570311635 +0530	commit: Cards on homepage parse respective data and show it properly
-fdff33dae10e05dd603c4bb6893bc93ff864bb9a 6b0277d5b69b2e13b616cef7674b69a835a3e45c Chinmay Kabi <chinmay.kabi@live.com> 1570313238 +0530	commit: Colors in homepage cards set dynamically
-6b0277d5b69b2e13b616cef7674b69a835a3e45c de848da0725f677968ec4826041cb7977b92772c Chinmay Kabi <chinmay.kabi@live.com> 1570364252 +0530	commit: Events layout started
-de848da0725f677968ec4826041cb7977b92772c 964d9ef821335fec9f054b3c394cc9df270f9119 Chinmay Kabi <chinmay.kabi@live.com> 1570810392 +0530	commit: Homepage cards improved
-964d9ef821335fec9f054b3c394cc9df270f9119 da30491967e64daf821b206eb0e7ccb263d0fad4 Chinmay Kabi <chinmay.kabi@live.com> 1570858951 +0530	commit: Registration works
-da30491967e64daf821b206eb0e7ccb263d0fad4 16d6d4683878f2b9cab4f3ec343ebfbb84a4ff95 Chinmay Kabi <chinmay.kabi@live.com> 1570863515 +0530	commit: Registration works
