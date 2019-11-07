@@ -1,0 +1,31 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Chinmay-KB/project-navonmesh.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "authentication"]
+	remote = origin
+	merge = refs/heads/notif_check
+[branch "notif_check"]
+	remote = origin
+	merge = refs/heads/notif_check
+[branch "homepage_card"]
+	remote = origin
+	merge = refs/heads/homepage_card
+[branch "homepage_cardupdate"]
+	remote = origin
+	merge = refs/heads/homepage_cardupdate
+[branch "dynamic_links"]
+	remote = origin
+	merge = refs/heads/dynamic_links
+[branch "internmela"]
+	remote = origin
+	merge = refs/heads/internmela

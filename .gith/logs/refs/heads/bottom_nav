@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 4cde9f349a00b47fd3353759842d2d19aef17218 Chinmay Kabi <chinmay.kabi@live.com> 1567863830 +0530	branch: Created from HEAD
+4cde9f349a00b47fd3353759842d2d19aef17218 aac9d2600846467500d2de6869c6b0eb373f79ab Chinmay Kabi <chinmay.kabi@live.com> 1567891353 +0530	commit: Bottom appbar, Carousel, implemented with State Management using Provider

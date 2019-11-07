@@ -1,0 +1,108 @@
+{
+  "venues": [
+    {
+      "venue": "Lecture Avenue-LA",
+      "maps_url": "https://www.google.com/maps/place/Lecture+Avenue/@22.2523487,84.8874598,14z/data=!4m8!1m2!2m1!1sla+near+NIT+Rourkela,+National+Institute+of+Technology,+Sector+1,+Rourkela,+Odisha!3m4!1s0x3a201e78dfb71fd1:0x6f5cc4abfbddaa69!8m2!3d22.2513332!4d84.9048918"
+    },
+    {
+      "venue": "Bhubaneshwar Behera Auditorium-BBA",
+      "maps_url": "https://www.google.com/maps/place/Bhubaneshwar+Behera+Auditorium+NIT+Rourkela/@22.2523487,84.8874598,14z/data=!4m8!1m2!2m1!1sla+near+NIT+Rourkela,+National+Institute+of+Technology,+Sector+1,+Rourkela,+Odisha!3m4!1s0x3a201e7f99b496ef:0xdb1bec208bbcf83b!8m2!3d22.2527296!4d84.9006372"
+    },
+    {
+      "venue": "TIIR",
+      "maps_url": "https://www.google.com/maps/place/TIIR+Building,+Department+of+Planning+and+Architecture./@22.2523487,84.8874598,14z/data=!4m8!1m2!2m1!1sla+near+NIT+Rourkela,+National+Institute+of+Technology,+Sector+1,+Rourkela,+Odisha!3m4!1s0x3a201dd5e37ae521:0x939a99f88fdffb36!8m2!3d22.2549982!4d84.9033928"
+    },
+    {
+      "venue": "Swimming Pool",
+      "maps_url": "https://www.google.com/maps/place/Swimming+Pool/@22.2523487,84.8874598,14z/data=!4m8!1m2!2m1!1sla+near+NIT+Rourkela,+National+Institute+of+Technology,+Sector+1,+Rourkela,+Odisha!3m4!1s0x3a201dd623e2cccb:0x6977466fb2490094!8m2!3d22.2545455!4d84.9052727"
+    },
+    {
+      "venue": "RM Hall",
+      "maps_url": "https://www.google.com/maps/place/Rajendra+Mishra+Exhibition+Hall/@22.2523487,84.8874598,14z/data=!4m8!1m2!2m1!1sla+near+NIT+Rourkela,+National+Institute+of+Technology,+Sector+1,+Rourkela,+Odisha!3m4!1s0x3a201e7f07d52a43:0x8d10436e56402aaf!8m2!3d22.2518002!4d84.9012437"
+    },
+    {
+      "venue": "Chemical Dept",
+      "maps_url": "https://www.google.com/maps/place/Department+of+Chemical+Engineering/@22.2516921,84.8982378,16z/data=!4m8!1m2!2m1!1sChemical+Department+nit!3m4!1s0x3a201e78b5a0f4ef:0xb81a629efdfdff27!8m2!3d22.2527414!4d84.9038542"
+    },
+    {
+      "venue": "Dilip Tirkey Stadium-DTS",
+      "maps_url": "https://www.google.com/maps/place/Dilip+Tirkey+Stadium/@22.2549238,84.9048842,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201dd7daf49785:0x3ca26446dd4e9677!8m2!3d22.2549238!4d84.9070675"
+    },
+    {
+      "venue": "NCC Ground",
+      "maps_url": "https://www.google.com/maps/place/NCC+Ground,+NIT+Rourkela/@22.254206,84.8992324,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201dd580cad2bf:0x6eabd6c5daea20d9!8m2!3d22.254206!4d84.9014157"
+    },
+    {
+      "venue": "Basketball Court",
+      "maps_url": "https://www.google.com/maps/place/Basketball+Court,+National+Institute+of+Technology,+Sector+1,+Rourkela,+Odisha+769008/@22.2538506,84.9028181,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201e789f450649:0x20af09002ab790e8!8m2!3d22.2538059!4d84.9049917"
+    },
+    {
+      "venue": "BM-BT",
+      "maps_url": "https://www.google.com/maps/place/Department+Of+Biotechnology+And+Medical+Engineering+National+Institute+Of+Technology/@22.2525136,84.9023743,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201e78c71a1701:0xd3577e475372a52b!8m2!3d22.2525136!4d84.9045576"
+    },
+    {
+      "venue": "Nescafe, Banyan Tree",
+      "maps_url": "https://www.google.com/maps/place/Nescafe/@22.252926,84.8998549,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201e7f694ec2b3:0x8aa3a20796d2e886!8m2!3d22.252926!4d84.9020382"
+    },
+    {
+      "venue": "SAC",
+      "maps_url": "https://www.google.com/maps/place/SAC+NIT+Rourkela/@22.252538,84.8978047,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201e7f9588b543:0xfe2e998eb3ad35f8!8m2!3d22.252538!4d84.899988"
+    },
+    {
+      "venue": "CS Dept",
+      "maps_url": "https://www.google.com/maps/place/Computer+Science+Department/@22.2517134,84.8986007,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201f637a5c0a75:0x6f7d7a5d4b9dc376!8m2!3d22.2517134!4d84.900784"
+    },
+    {
+      "venue": "ECE Dept",
+      "maps_url": "https://www.google.com/maps/place/ECE+Seminar+Hall/@22.2508384,84.8994585,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201e7efce855d7:0xbf3884bed481b388!8m2!3d22.2508384!4d84.9016418"
+    },
+    {
+      "venue": "Library Lawns",
+      "maps_url": "https://www.google.com/maps/place/Library+Lawns/@22.2534607,84.9001659,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201e7f678fb441:0x1a018a4cfc9eb2ef!8m2!3d22.2534607!4d84.9023492"
+    },
+    {
+      "venue": "CVR Hall of residence",
+      "maps_url": "https://www.google.com/maps/place/CVR+Hall+Of+Residence/@22.2557622,84.9032664,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201dd6470b5269:0x5e6341fdb7005d39!8m2!3d22.2557622!4d84.9054497"
+    },
+    {
+      "venue": "KMS Hall of residence",
+      "maps_url": "https://www.google.com/maps/place/Kiran+Mazumdar+Shaw+Hall+Of+Residence/@22.2502198,84.8964221,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201e7e27d734db:0x26c41538dab12851!8m2!3d22.2502198!4d84.8986054"
+    },
+    {
+      "venue": "SD Hall of residence",
+      "maps_url": "https://www.google.com/maps/place/Satish+Dhawan+Hall+Of+Residence,+NIT+Rourkela/@22.252748,84.9129249,19z/data=!4m8!1m2!2m1!1ssd+hall+of+residence+near+National+Institute+of+Technology,+Sector+1,+Rourkela,+Odisha!3m4!1s0x0:0x8cdc975e43cdfa23!8m2!3d22.252715!4d84.9133639"
+    },
+    {
+      "venue": "VS Hall of residence",
+      "maps_url": "https://www.google.com/maps/place/Vikram+Sarabhai+Hall+of+Residence/@22.2528081,84.9082929,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201e77b0882537:0x596719a8f0f906e8!8m2!3d22.2528081!4d84.9104762"
+    },
+    {
+      "venue": "HB Hall of residence",
+      "maps_url": "https://www.google.com/maps/place/Homi+Bhabha+Hall+of+Residence/@22.2547788,84.9101919,17z/data=!4m8!1m2!2m1!1shb+hall+of+residence+near+National+Institute+of+Technology,+Sector+1,+Rourkela,+Odisha!3m4!1s0x3a201dd89c30dbc5:0xbd5e991328d1fa76!8m2!3d22.2547788!4d84.9123806"
+    },
+    {
+      "venue": "DBA Hall of residence",
+      "maps_url": "https://www.google.com/maps/place/Dhirubhai+Ambani+Hall+of+Residence/@22.2536172,84.9078036,17z/data=!4m8!1m2!2m1!1sdba+hall+of+residence+near+National+Institute+of+Technology,+Sector+1,+Rourkela,+Odisha!3m4!1s0x3a201e77e62d9af5:0xc60f9a7bf7c6cd24!8m2!3d22.2536172!4d84.9099923"
+    },
+    {
+      "venue": "MSS Hall of residence",
+      "maps_url": "https://www.google.com/maps/place/M.+S.+Swaminathan+Hall+of+Residence/@22.2536172,84.9078036,17z/data=!4m8!1m2!2m1!1smss+hall+of+residence+near+National+Institute+of+Technology,+Sector+1,+Rourkela,+Odisha!3m4!1s0x3a201e77d47cc39b:0x923486b9ebacea3b!8m2!3d22.2540293!4d84.9112942"
+    },
+    {
+      "venue": "GDB Hall of residence",
+      "maps_url": "https://www.google.com/maps/place/G.+D.+Birla+Hall+of+Residence/@22.2534219,84.9067741,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201e781eadc351:0x4b663ff2c8786efb!8m2!3d22.2534219!4d84.9089574"
+    },
+    {
+      "venue": "MV Hall of residence",
+      "maps_url": "https://www.google.com/maps/place/M.+Visvesvaraya+Hall+of+Residence/@22.2531324,84.9065272,17z/data=!4m8!1m2!2m1!1smv+hall+of+residence!3m4!1s0x3a201e784195f26d:0xf3b279a87fa37c32!8m2!3d22.2529692!4d84.9074909"
+    },
+    {
+      "venue": "SSB Hall of residence",
+      "maps_url": "https://www.google.com/maps/place/S+S+Bhatnagar+Hall+of+Residence/@22.2523306,84.903776,17z/data=!4m8!1m2!2m1!1smv+hall+of+residence!3m4!1s0x3a201e78f4880f5d:0x5942e82a4f972113!8m2!3d22.2523306!4d84.9059647"
+    },
+    {
+      "venue": "VK Hall of residence",
+      "maps_url": "https://www.google.com/maps/place/Verghese+Kurien+Hall+Of+Residence/@22.2481953,84.9016075,17z/data=!3m1!4b1!4m5!3m4!1s0x3a201f74dc4a220d:0xf2e819677cb13601!8m2!3d22.2481953!4d84.9037908"
+    }
+  ]
+}
